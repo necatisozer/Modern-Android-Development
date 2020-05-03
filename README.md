@@ -21,9 +21,10 @@
         - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
     - **Module Architecture**
         - Single Module
-        - Layer Based Modules
-        - Feature Based Modules
-        - Library Modules
+        - Multi Module
+            - Layer Modules
+            - (Dynamic) Feature Modules
+            - Utility Modules
     - **Presentation Architecture**
         - MVP
         - MVVM
