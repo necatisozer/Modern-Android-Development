@@ -44,7 +44,7 @@
         - [Color](https://material.io/design/color/)
             - [Dark Theme](https://material.io/design/color/dark-theme.html)
         - [Typography](https://material.io/design/typography/)
-        - Shape
+        - [Shape](https://material.io/design/shape/)
         - [Motion](https://material.io/design/motion/)
 - **Libraries**
     - **AndroidX**
