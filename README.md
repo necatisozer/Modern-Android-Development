@@ -132,7 +132,6 @@
         - [Robolectric](https://github.com/robolectric/robolectric)
         - [Mockito](https://github.com/mockito/mockito)
         - [MockK](https://github.com/mockk/mockk)
-        - [Hamcrest](https://github.com/hamcrest/JavaHamcrest)
         - [Espresso](https://developer.android.com/training/testing/espresso)
         - [Truth](https://github.com/google/truth)
         - [Kluent](https://github.com/MarkusAmshove/Kluent)
