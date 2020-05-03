@@ -78,6 +78,10 @@
             - [Assure](https://github.com/afollestad/assure)
         - **Deep Link**
             - [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch)
+        - **Localization**
+            - [Android Localization](https://github.com/akexorcist/Android-Localization)
+        - **Activity Result**
+            - [Inline Activity Result](https://github.com/afollestad/inline-activity-result)
     - **Network**
         - [Retrofit](https://github.com/square/retrofit)
         - [OkHttp](https://github.com/square/okhttp)
@@ -97,7 +101,10 @@
         - [Shared Preferences](https://developer.android.com/training/data-storage/shared-preferences)
             - [Rxkprefs](https://github.com/afollestad/rxkprefs)
             - [Splitties → Preferences](https://github.com/LouisCAD/Splitties/tree/master/modules/preferences)
+            - [Only](https://github.com/skydoves/Only)
             - [Secure-preferences](https://github.com/scottyab/secure-preferences)
+    - **Repository**
+        - [Store](https://github.com/dropbox/Store) (alpha)
     - **Image Loading**
         - [Glide](https://github.com/bumptech/glide)
         - [Coil](https://github.com/coil-kt/coil)
@@ -128,6 +135,7 @@
         - [Hamcrest](https://github.com/hamcrest/JavaHamcrest)
         - [Espresso](https://developer.android.com/training/testing/espresso)
         - [Truth](https://github.com/google/truth)
+        - [Kluent](https://github.com/MarkusAmshove/Kluent)
         - [JaCoCo](https://github.com/jacoco/jacoco)
 - **Tools**
     - **Crash Reporting & Analytics**
