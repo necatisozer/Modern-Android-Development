@@ -82,6 +82,9 @@
             - [Android Localization](https://github.com/akexorcist/Android-Localization)
         - **Activity Result**
             - [Inline Activity Result](https://github.com/afollestad/inline-activity-result)
+         - **Dimension Ratio**
+            - [Sdp](https://github.com/intuit/sdp)
+            - [Ssp](https://github.com/intuit/ssp)
     - **Network**
         - [Retrofit](https://github.com/square/retrofit)
         - [OkHttp](https://github.com/square/okhttp)
