@@ -82,9 +82,6 @@
             - [Android Localization](https://github.com/akexorcist/Android-Localization)
         - **Activity Result**
             - [Inline Activity Result](https://github.com/afollestad/inline-activity-result)
-         - **Dimension Ratio**
-            - [Sdp](https://github.com/intuit/sdp)
-            - [Ssp](https://github.com/intuit/ssp)
     - **Network**
         - [Retrofit](https://github.com/square/retrofit)
         - [OkHttp](https://github.com/square/okhttp)
@@ -96,16 +93,20 @@
         - [Moshi](https://github.com/square/moshi)
         - [Kotlin Serialization](https://github.com/Kotlin/kotlinx.serialization)
     - **Persistence**
-        - [Room](https://developer.android.com/topic/libraries/architecture/room)
-        - [SQLDelight](https://github.com/cashapp/sqldelight)
-        - [Realm](https://github.com/realm/realm-java)
-        - [ObjectBox](https://objectbox.io/)
-        - [Paper](https://github.com/pilgr/Paper)
-        - [Shared Preferences](https://developer.android.com/training/data-storage/shared-preferences)
-            - [Rxkprefs](https://github.com/afollestad/rxkprefs)
-            - [Splitties → Preferences](https://github.com/LouisCAD/Splitties/tree/master/modules/preferences)
-            - [Only](https://github.com/skydoves/Only)
-            - [Secure-preferences](https://github.com/scottyab/secure-preferences)
+        - **Relational**
+            - [Room](https://developer.android.com/topic/libraries/architecture/room)
+            - [SQLDelight](https://github.com/cashapp/sqldelight)
+            - [Realm](https://github.com/realm/realm-java)
+            - [ObjectBox](https://github.com/objectbox/objectbox-java)
+        - **Key-Value**
+            - [Paper](https://github.com/pilgr/Paper)
+            - [MMKV](https://github.com/Tencent/MMKV)
+            - [Binary Preferences](https://github.com/yandextaxitech/binaryprefs)
+            - [Shared Preferences](https://developer.android.com/training/data-storage/shared-preferences)
+                - [Rxkprefs](https://github.com/afollestad/rxkprefs)
+                - [Splitties → Preferences](https://github.com/LouisCAD/Splitties/tree/master/modules/preferences)
+                - [Only](https://github.com/skydoves/Only)
+                - [Secure-preferences](https://github.com/scottyab/secure-preferences)
     - **Repository**
         - [Store](https://github.com/dropbox/Store) (alpha)
     - **Image Loading**
@@ -116,9 +117,12 @@
             - [Epoxy](https://github.com/airbnb/epoxy)
             - [Recyclical](https://github.com/afollestad/recyclical)
             - [Square Cycler](https://github.com/square/cycler) (Under development)
+        - **Screen Size Support**
+            - [FlexboxLayout](https://github.com/google/flexbox-layout)
+            - [SDP](https://github.com/intuit/sdp)
+            - [SSP](https://github.com/intuit/ssp)
         - [Paris](https://github.com/airbnb/paris)
         - [Cyanea](https://github.com/jaredrummler/Cyanea)
-        - [FlexboxLayout](https://github.com/google/flexbox-layout)
         - [Material Dialogs](https://github.com/afollestad/material-dialogs)
         - [Lottie](https://github.com/airbnb/lottie-android) / [LottieFiles](https://lottiefiles.com/)
         - [ExoPlayer](https://github.com/google/ExoPlayer)
