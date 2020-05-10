@@ -117,14 +117,12 @@
             - [Epoxy](https://github.com/airbnb/epoxy)
             - [Recyclical](https://github.com/afollestad/recyclical)
             - [Square Cycler](https://github.com/square/cycler) (Under development)
-        - **Screen Size Support**
-            - [FlexboxLayout](https://github.com/google/flexbox-layout)
-            - [SDP](https://github.com/intuit/sdp)
-            - [SSP](https://github.com/intuit/ssp)
         - [Paris](https://github.com/airbnb/paris)
         - [Cyanea](https://github.com/jaredrummler/Cyanea)
+        - [FlexboxLayout](https://github.com/google/flexbox-layout)
         - [Material Dialogs](https://github.com/afollestad/material-dialogs)
         - [Lottie](https://github.com/airbnb/lottie-android) / [LottieFiles](https://lottiefiles.com/)
+        - [SDP](https://github.com/intuit/sdp) / [SSP](https://github.com/intuit/ssp)
         - [ExoPlayer](https://github.com/google/ExoPlayer)
     - **Logging**
         - [Timber](https://github.com/JakeWharton/timber)
